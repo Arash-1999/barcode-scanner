@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/barcode-scanner/static/css/main.2c0e9cad.chunk.css",
-    "main.js": "/barcode-scanner/static/js/main.fa4a7920.chunk.js",
-    "main.js.map": "/barcode-scanner/static/js/main.fa4a7920.chunk.js.map",
-    "runtime-main.js": "/barcode-scanner/static/js/runtime-main.d3fcbd4e.js",
-    "runtime-main.js.map": "/barcode-scanner/static/js/runtime-main.d3fcbd4e.js.map",
-    "static/js/2.a431791c.chunk.js": "/barcode-scanner/static/js/2.a431791c.chunk.js",
-    "static/js/2.a431791c.chunk.js.map": "/barcode-scanner/static/js/2.a431791c.chunk.js.map",
+    "main.css": "/barcode-scanner/static/css/main.e2732be7.chunk.css",
+    "main.js": "/barcode-scanner/static/js/main.eb624278.chunk.js",
+    "main.js.map": "/barcode-scanner/static/js/main.eb624278.chunk.js.map",
+    "runtime-main.js": "/barcode-scanner/static/js/runtime-main.436aa4e8.js",
+    "runtime-main.js.map": "/barcode-scanner/static/js/runtime-main.436aa4e8.js.map",
+    "static/js/2.6ef6083f.chunk.js": "/barcode-scanner/static/js/2.6ef6083f.chunk.js",
+    "static/js/2.6ef6083f.chunk.js.map": "/barcode-scanner/static/js/2.6ef6083f.chunk.js.map",
     "index.html": "/barcode-scanner/index.html",
-    "static/css/main.2c0e9cad.chunk.css.map": "/barcode-scanner/static/css/main.2c0e9cad.chunk.css.map",
-    "static/js/2.a431791c.chunk.js.LICENSE.txt": "/barcode-scanner/static/js/2.a431791c.chunk.js.LICENSE.txt"
+    "static/css/main.e2732be7.chunk.css.map": "/barcode-scanner/static/css/main.e2732be7.chunk.css.map",
+    "static/js/2.6ef6083f.chunk.js.LICENSE.txt": "/barcode-scanner/static/js/2.6ef6083f.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.d3fcbd4e.js",
-    "static/js/2.a431791c.chunk.js",
-    "static/css/main.2c0e9cad.chunk.css",
-    "static/js/main.fa4a7920.chunk.js"
+    "static/js/runtime-main.436aa4e8.js",
+    "static/js/2.6ef6083f.chunk.js",
+    "static/css/main.e2732be7.chunk.css",
+    "static/js/main.eb624278.chunk.js"
   ]
 }
